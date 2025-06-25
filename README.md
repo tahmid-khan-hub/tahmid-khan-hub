@@ -5,11 +5,8 @@
 # 💫 About Me:
 I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **MERN stack developer**.  <br>I love building web apps, solving real-world problems, and exploring modern web technologies.
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tahmid.khan.35762241)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-khan-78a916335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tahmidkhan0011@gmail.com)
+🔨 Today's Work:
+<li>Refactored React components using custom hooks for better reusability</li>
 
 
 # 💻 Tech Stack:
