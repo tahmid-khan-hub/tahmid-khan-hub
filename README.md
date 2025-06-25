@@ -5,7 +5,7 @@
 # 💫 About Me:
 I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **MERN stack developer**.  <br>I love building web apps, solving real-world problems, and exploring modern web technologies.
 
-🔨 Today's Work:
+# 🔨 Today's Work:
 <li>Refactored React components using custom hooks for better reusability</li>
 
 
