@@ -33,7 +33,7 @@ I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 💼 Professional Profiles
+# 💼 Professional Profiles
 
 <p align="left">
   <a href="[https://my-portfolio-link.com](https://tahmid-khan-portfolio.netlify.app)" target="_blank">
