@@ -5,9 +5,6 @@
 # 💫 About Me:
 I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **MERN stack developer**.  <br>I love building web apps, solving real-world problems, and exploring modern web technologies.
 
-# 🔨 Today's Work:
-<li>Refactored React components using custom hooks for better reusability</li>
-
 
 # 💻 Tech Stack:
 
@@ -35,6 +32,14 @@ I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a
 ![React Icons](https://img.shields.io/badge/React_Icons-%235A29E4.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 💼 Professional Profiles
+
+<p align="left">
+  <a href="[https://my-portfolio-link.com](https://tahmid-khan-portfolio.netlify.app)" target="_blank">
+    <img src="https://i.ibb.co/qL38C4NS/portfolio-banner.jpg" alt="Portfolio" />
+  </a>
+</p>
 
 
 # 📊 GitHub Stats:
