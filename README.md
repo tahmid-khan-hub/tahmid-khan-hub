@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **MERN stack developer**.  <br>I love building web apps, problem solving and exploring modern web technologies.
+I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **Web developer**.  <br>I love building web apps, problem solving and exploring modern web technologies.
 
 # 🚀 Current Activities:
 - Currently exploring **TypeScript** & **Next.js**
