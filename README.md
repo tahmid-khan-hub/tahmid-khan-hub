@@ -5,19 +5,6 @@
 # 💫 About Me:
 I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **Web developer**.  <br>I love building web apps, problem solving and exploring modern web technologies.
 
-# 🚀 Current Activities:
-- Currently exploring **TypeScript** & **Next.js**
-
-# 🌐 Social Links:
-<p align="left">
-  <a href="https://github.com/tahmid-khan-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tahmid-khan-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 
 # 💻 Tech Stack:
 
