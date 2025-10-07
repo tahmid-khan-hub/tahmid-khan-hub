@@ -38,7 +38,7 @@ I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a
 # 💼 Professional Profiles
 
 <p align="center">
-  <a href="https://tahmid-khan-portfolio.vercel.app" target="_blank">
+  <a href="https://tahmid-khan-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="./my-portfolio-banner.png" alt="Portfolio" width="100%"/>
   </a>
 </p>
