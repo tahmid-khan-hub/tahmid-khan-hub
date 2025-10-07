@@ -37,10 +37,8 @@ I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a
 
 # 💼 Professional Profiles
 
-<p align="left">
-  <a href="[https://my-portfolio-link.com](https://tahmid-khan-portfolio.netlify.app)" target="_blank">
-    <img src="https://i.ibb.co.com/8DQMQg5g/my-banner-portfolio.jpg" alt="Portfolio"/>
-  </a>
+<p align="center">
+  <img src="./portfolio.jpg" alt="Portfolio" width="100%"/>
 </p>
 
 
