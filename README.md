@@ -4,8 +4,11 @@
 
 # 💫 About Me:
 I'm **Tahmid Khan**, a third-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
+<br>
 Currently working on a token-based anonymous chat application with real-time WebSocket support using **Socket.io**, focused on getting the architecture right, not just making it work.
-I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest.
+<br>
+I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest. 
+<br>
 Right now exploring **Python** to build an **AI/ML project** for my university AI course a different kind of problem solving than what I'm used to.
 
 
