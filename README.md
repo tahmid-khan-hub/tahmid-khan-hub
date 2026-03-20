@@ -3,7 +3,10 @@
 </p>
 
 # 💫 About Me:
-I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a passionate **Web developer**.  <br>I love building web apps, problem solving and exploring modern web technologies.
+I'm **Tahmid Khan**, a third-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
+Currently working on a token-based anonymous chat application with real-time WebSocket support using **Socket.io**, focused on getting the architecture right, not just making it work.
+I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest.
+Right now exploring **Python** to build an **AI/ML project** for my university AI course a different kind of problem solving than what I'm used to.
 
 
 # 💻 Tech Stack & Tools:
@@ -18,8 +21,8 @@ I'm **Tahmid Khan**, a Computer Science student at Metropolitan University and a
 <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
