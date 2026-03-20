@@ -43,7 +43,7 @@ Right now exploring **Python** to build an **AI/ML project** for my university A
 
 <p align="center">
   <a href="https://tahmid-khan-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="./my-portfolio-banner.png" alt="Portfolio" width="100%"/>
+    <img src="./Portfolio Banner.png" alt="Portfolio" width="100%"/>
   </a>
 </p>
 
