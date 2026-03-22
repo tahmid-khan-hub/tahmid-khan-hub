@@ -2,7 +2,7 @@
   <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
-# 💫 About Me:
+# 👋 About Me
 I'm **Tahmid Khan**, a third-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
 Currently working on a token-based anonymous chat application with real-time WebSocket support using **Socket.io**, focused on getting the architecture right, not just making it work.
@@ -12,7 +12,7 @@ I also participate in **competitive programming** contests on Codeforces and Cod
 Right now exploring **Python** to build an **AI/ML project** for my university AI course a different kind of problem solving than what I'm used to.
 
 
-# 💻 Tech Stack & Tools:
+# 💻 Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -48,7 +48,7 @@ Right now exploring **Python** to build an **AI/ML project** for my university A
 </p>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=tahmid-khan-hub&show_icons=true&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmid-khan-hub&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-khan-hub&layout=compact&theme=dark&hide_border=true)
