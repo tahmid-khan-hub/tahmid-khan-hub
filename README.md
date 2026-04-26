@@ -9,8 +9,6 @@ Currently working on a token-based anonymous chat application with real-time Web
 <br>
 I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest. Currently **Pupil (1200+)** on Codeforces and **2★** on CodeChef.
 <br>
-Right now exploring **Python** to build an **AI/ML project** for my university AI course a different kind of problem solving than what I'm used to.
-
 
 # 💻 Tech Stack & Tools
 
