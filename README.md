@@ -5,8 +5,6 @@
 # 👋 About Me
 I'm **Tahmid Khan**, a third-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
-Currently working on a token-based anonymous chat application with real-time WebSocket support using **Socket.io**, focused on getting the architecture right, not just making it work.
-<br>
 Recently built Betrak, a social media addiction predictor where users input behavioral data and an ML model classifies their addiction risk, handling the model training, backend in Python and the frontend end to end.
 <br>
 I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest. Currently **Pupil (1200+)** on Codeforces and **2★** on CodeChef.
