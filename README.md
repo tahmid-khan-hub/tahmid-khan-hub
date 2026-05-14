@@ -7,7 +7,7 @@ I'm **Tahmid Khan**, a third-year Computer Science student at Metropolitan Unive
 <br>
 Recently built Betrak, a social media addiction predictor where users input behavioral data and an ML model classifies their addiction risk, handling the model training, backend in Python and the frontend end to end.
 <br>
-I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest. Currently **Pupil (1200+)** on Codeforces and **2★** on CodeChef.
+I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
 <br>
 
 # 💻 Tech Stack & Tools
