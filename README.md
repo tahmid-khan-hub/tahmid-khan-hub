@@ -42,7 +42,7 @@ I also participate in **competitive programming** contests on Codeforces and Cod
 
 <p align="center">
   <a href="https://tahmid-khan-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="./Portfolio Banner.png" alt="Portfolio" width="100%"/>
+    <img src="./my-portfolio-banner.png" alt="Portfolio" width="100%"/>
   </a>
 </p>
 
