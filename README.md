@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+About+Me;A+Student;A+Web+Developer;A+Problem+Solver" alt="Typing SVG" />
 </p>
 I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
