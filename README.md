@@ -2,6 +2,10 @@
   <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+</p>
+
 ## 👋 About Me
 I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
@@ -51,9 +55,9 @@ I also participate in **competitive programming** contests on Codeforces and Cod
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmid-khan-hub&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-khan-hub&layout=compact&theme=dark&hide_border=true)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tahmid-khan-hub&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmid-khan-hub&theme=github_dark" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
