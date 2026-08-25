@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
-</p>
-
 <p align="center">
   <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
@@ -15,6 +11,10 @@ Recently built a **Reinforcement Learning fire evacuation agent**, trained to na
 <br>
 I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+</p>
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid-khan-)
