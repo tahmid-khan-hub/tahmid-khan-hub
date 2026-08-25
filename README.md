@@ -2,7 +2,9 @@
   <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
-## 👋 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+</p>
 I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
 Currently working on **Porikors**, a full-stack web application where students and teachers can manage courses, resources and grades.
@@ -12,9 +14,6 @@ Recently built a **Reinforcement Learning fire evacuation agent**, trained to na
 I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
-</p>
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid-khan-)
