@@ -2,8 +2,6 @@
   <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer)
-
 ## 👋 About Me
 I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
