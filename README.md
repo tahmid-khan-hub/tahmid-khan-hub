@@ -3,11 +3,13 @@
 </p>
 
 # 👋 About Me
-I'm **Tahmid Khan**, a third-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
+I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
-Recently built Betrak, a social media addiction predictor where users input behavioral data and an ML model classifies their addiction risk, handling the model training, backend in Python and the frontend end to end.
+Currently working on **Porikors**, a full-stack web application where students and teachers can manage courses, resources and grades.
 <br>
-I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent, but I show up for every contest. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
+Recently built a **Reinforcement Learning fire evacuation agent**, trained to navigate simulated fire environments and rescue survivors while learning optimal escape paths.
+<br>
+I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
 <br>
 
 # 💻 Tech Stack & Tools
