@@ -16,9 +16,10 @@ Recently built a **Reinforcement Learning fire evacuation agent**, trained to na
 I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
 <br>
 
-## 🏆 Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1200+)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tahmid.bd)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tahmid04)
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid-khan-)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tahmid.bd)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tahmid04)
 
 ## 💻 Tech Stack & Tools
 
@@ -55,9 +56,7 @@ I also participate in **competitive programming** contests on Codeforces and Cod
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmid-khan-hub&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-khan-hub&layout=compact&theme=dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmid-khan-hub&theme=github_dark" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmid-khan-hub&theme=github_dark" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
