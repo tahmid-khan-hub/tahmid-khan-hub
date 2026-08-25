@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Student;Web+Developer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
 ## 👋 About Me
