@@ -2,7 +2,7 @@
   <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
 </p>
 
-# 👋 About Me
+##👋 About Me
 I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University, building full-stack web apps with Next.js, TypeScript and PostgreSQL.
 <br>
 Currently working on **Porikors**, a full-stack web application where students and teachers can manage courses, resources and grades.
@@ -12,7 +12,11 @@ Recently built a **Reinforcement Learning fire evacuation agent**, trained to na
 I also participate in **competitive programming** contests on Codeforces and CodeChef in C++. Not the most consistent. Reached **Pupil (1200+)** on Codeforces and **3★** on CodeChef.
 <br>
 
-# 💻 Tech Stack & Tools
+## 🏆 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1200+)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Tahmid.bd)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/tahmid04)
+
+## 💻 Tech Stack & Tools
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -33,7 +37,7 @@ I also participate in **competitive programming** contests on Codeforces and Cod
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
 <p align="center">
   <a href="https://tahmid-khan-portfolio.vercel.app" target="_blank" rel="noopener noreferrer">
@@ -42,7 +46,7 @@ I also participate in **competitive programming** contests on Codeforces and Cod
 </p>
 
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=tahmid-khan-hub&show_icons=true&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmid-khan-hub&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-khan-hub&layout=compact&theme=dark&hide_border=true)
