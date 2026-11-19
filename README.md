@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./github banner.png" alt="Portfolio Banner" width="100%" />
-</p>
-
 <p align="center"> <img src="./github banner.png" alt="Portfolio Banner" width="100%" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+About+Me" alt="About Me" /> </p>
 
 I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan University. I've built full-stack web apps with Next.js, TypeScript and PostgreSQL.
@@ -9,6 +5,7 @@ I'm **Tahmid Khan**, a fourth-year Computer Science student at Metropolitan Univ
 Right now I'm working on two projects:
 - **Coveso**: control your computer with hand gestures and voice commands.
 - **C Minor Compiler (cminorcc)**: a compiler for a small part of C, written in Python. It turns source code into a real Linux program using the QBE backend.
+<br>
 I did competitive programming in C++ for a while. Reached **Pupil (1200+)** on Codeforces and a highest of **3★** on CodeChef (now 2★).
 
 
